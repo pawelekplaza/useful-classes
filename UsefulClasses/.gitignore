@@ -57,3 +57,6 @@
 
 # IDEA config files
 .idea/
+
+obj/
+bin/
